@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HasBrain-Challenge.iml" filepath="$PROJECT_DIR$/HasBrain-Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HasBrain-Challenge.iml" filepath="$PROJECT_DIR$/HasBrain-Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/kenburnsview/kenburnsview.iml" filepath="$PROJECT_DIR$/kenburnsview/kenburnsview.iml" />
     </modules>
